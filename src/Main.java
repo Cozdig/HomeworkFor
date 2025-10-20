@@ -13,7 +13,7 @@ public class Main {
             System.out.println(i);
         }
         //4
-        for (int i = 10; i >= -10; i -= 1){
+        for (int i = 10; i > -11; i -= 1){
             System.out.println(i);
         }
         //5
